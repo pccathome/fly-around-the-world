@@ -14,7 +14,7 @@ import atmosphereFragmentShader from './shaders/atmosphere/fragment.glsl?raw'
 // Refs
 const webgl = ref(null)
 
-// Scene setup
+// Scene
 const scene = new THREE.Scene()
 scene.background = new THREE.Color('#99a1af')
 
