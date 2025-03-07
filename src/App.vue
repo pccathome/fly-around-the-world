@@ -235,7 +235,7 @@ onMounted(() => {
             </template>
             <template v-slot:second> </template>
             <template v-slot:github>
-                <a href="https://pccathome.github.io/fly-around-the-world/" target="_blank" class="underline-offset-2"
+                <a href="https://github.com/pccathome/fly-around-the-world" target="_blank" class="underline-offset-2"
                     >GitHub</a
                 >
             </template>
