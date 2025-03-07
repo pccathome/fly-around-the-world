@@ -1,8 +1,8 @@
-[![Screenshot](./public/og-image.webp)]
+[![Screenshot](./public/og-image.webp)]()
 
 # Fly around the world
 
 -   VUE + Three.js
--   Earth and planes.
+-   Earth and plane.
 
 [demo](https://happy-balloon.zeabur.app/)
